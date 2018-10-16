@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Copyright (C) 2018 - The LineageOS Project
 
 Device configuration for Xiaomi Redmi 4A ("rolex")
@@ -26,3 +27,6 @@ Front Camera | 5 MP, f/2.2
 ## Device picture
 
 ![Redmi 4A](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-4a-3.jpg "Redmi 4A in white")
+=======
+# android_device_xiaomi_rolex
+>>>>>>> 911716a2ef9ce40a89bb9d3a9c1d8749a7353442
